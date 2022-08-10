@@ -1,16 +1,7 @@
-# untitled
+# Ponderal Index Calculator
 
-A new Flutter project.
+An application designed for finding the Ponderal Index of a person
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please press "Get Started" and enter into the inputs for height and weight in the proper units (meters for height, kilograms for pounds), then press "Calculate" to get your answer. If you would like to know more about the what Ponderal Index is and how the application was made, press "About".
