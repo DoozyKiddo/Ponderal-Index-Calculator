@@ -1,6 +1,6 @@
 # Ponderal Index Calculator
 
-An application designed for finding the Ponderal Index of a person
+An application designed for finding the Ponderal Index of a person.
 
 ## Getting Started
 
